@@ -24,7 +24,7 @@
 
 [<img style="width: 36px; height: 36px;" src ="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/pl_PL/e4dbb8e240d50cf30bab73b272a3760b.png">](mailto:wojciechszoda@icloud.com)
 [<img style="width: 36px; height: 36px;" src ="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">](https://www.linkedin.com/in/wojciech-szoda-0108811a9/)
-[<img style="width: 36px; height: 36px;" src ="https://useme.com/static/images/useme-logo.svg?1680467024">](https://useme.com/pl/roles/contractor/wojciech-szoda,134947/#)
+[<img style="width: 36px; height: 36px;" src ="https://www.eu-startups.com/wp-content/uploads/2022/01/Useme-logo.png">](https://useme.com/pl/roles/contractor/wojciech-szoda,134947/#)
 
 
 ## 👀 Some Stats:
