@@ -7,7 +7,7 @@
 * 🥊 Training Boxing and Calisthenics
 * 🏍️ Love riding on motorcycle and proud owner of Suzuki GSX750F
 * 📕 Bibliophile. Favourite series: Demonic Cycle, Sword Art Online
-* 🎮 Favourite Games: Call of Juarez, Xenoblade series, The Witcher 2
+* 🎮 Favourite Games: Final Fantasy 16, Call of Juarez, Xenoblade series, The Witcher 2
 * ✨ 2023 goal: Impove my C++ skills in scope of Game Development
 * 📖 I’m currently learning C++, Unreal Engine, Procedural Animations and NPC AI
 * 🎓 Student at the Bialystok University of Technology
